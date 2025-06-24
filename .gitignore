@@ -6,3 +6,4 @@ tensorboard/
 __pycache__/
 terraform.tfstate*
 .terraform/
+.DS_Store
