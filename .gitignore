@@ -1,0 +1,8 @@
+venv
+*.pyc
+*.pth
+*.log
+tensorboard/
+__pycache__/
+terraform.tfstate*
+.terraform/
