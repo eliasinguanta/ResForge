@@ -69,6 +69,7 @@ The prefix is just an example here.
 ResForge/
 ├── sagemaker/         # SageMaker setup
 ├── src/               # Source code (could be run without sagemaker)
+├── tensorboard_logs/  # Contains experiment results
 └── visualize/         # Tensorboard code
 ```
 
